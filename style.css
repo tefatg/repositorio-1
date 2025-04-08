@@ -1,0 +1,41 @@
+h1{
+    color:#920f14;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    background-color:#E86975;
+    border: solid 4px; border-color: #efaabe;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+    box-sizing: content-box;
+    width: 35%;
+}
+th{
+    background-color:#CA8E82;
+    color:#920f14;
+    text-shadow: 1px 1px 1px rgb(247, 167, 200);
+}
+tr{
+    background-color: #f2d6ed;
+}
+#cero {
+    background-color: rgb(255, 152, 152);
+    text-align: center;
+}
+.ballena{
+    background-color: #d88575;
+}
+.oso{
+    background-color: #d88575;
+}
+.lince{
+    background-color: #d88575;
+}
+.tigre{
+    background-color: #d88575;
+}
+.nombre{
+    background-color: #e44d9e;
+}
