@@ -1,9 +1,10 @@
+
 # Mi primer readme 
 
 María Stephania Tejada Gámez
 
 
-# Authors
+## Authors
 
-- [@María Stephania Tejada Gámez](https://www.github.com/octokatherine)
+- [@María Stephania Tejada Gámez](https://tefatg.github.io/repositorio-1/)
 
